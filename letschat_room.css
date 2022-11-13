@@ -1,0 +1,16 @@
+body{
+    background-image: linear-gradient(to right top, #33a0f1, #2591d9, #1882c1, #0a73aa, #006494);
+    border: 5px solid rgb(252, 252, 252);
+}
+img{
+    height: 50px;
+    width: 50px;
+}
+.header{
+    color: #ffffff;
+    font-family: 'Letters for Learners',sans-serif;
+}
+@font-face {
+font-family: 'Letters for Learners';
+src: url(Letters\ for\ Learners.ttf);
+}

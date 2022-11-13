@@ -1,0 +1,22 @@
+img{
+    height: 50px;
+    width: 50px;
+}
+body{
+    background-image: url(2.jpg);
+    background-size: cover;
+}
+.header{
+    color: #ffffff;
+    font-family: 'Letters for Learners',sans-serif;
+}
+
+@font-face {
+    font-family: 'Letters for Learners';
+    src: url(Letters\ for\ Learners.ttf);
+    }
+.input_div_message_page{
+    height: 1000px;
+    width: 1000px;
+    border: solid 10px rgb(66, 135, 255);
+} 
